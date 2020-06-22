@@ -1,7 +1,8 @@
 # Media 4U
  
 ## Links
-* Repository: https://github.com/ZQWhiting/media4u
+* New Repository: https://delimr.github.io/media4u
+* Original Repository: https://github.com/ZQWhiting/media4u
 * Live URL: https://ZQWhiting.github.io/media4u
 
 ## Technologies Used
